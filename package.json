@@ -10,6 +10,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "git+https://github.com/tynes/express.git"
+    "express": "git+https://github.com/tynes/express.git#aaf48ef558c26c1b0a6cb9cdc8ed7a3b5d2824c9"
   }
 }
